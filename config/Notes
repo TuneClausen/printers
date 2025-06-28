@@ -1,0 +1,10 @@
+https://wiki.kb-3d.com/en/home/btt/voron/PITFT50
+
+I followed this guide. Cable was broken, I think. Ordered new one
+
+Only got to this part:
+sudo su -
+cd ~/
+git clone https://github.com/jordanruthe/KlipperScreen.git
+cd ~/KlipperScreen
+./scripts/KlipperScreen-install.sh
