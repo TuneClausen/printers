@@ -7,7 +7,7 @@ sudo apt update + sudo apt upgrade
 
 #install log2ram
 //# Download the repository
-//github_url="https://github.com/azlux/log2ram/archive/master.tar.gz"
+/b github_url="https://github.com/azlux/log2ram/archive/master.tar.gz"
 //curl -L $github_url | tar zx
 
 //# Enter the directory
