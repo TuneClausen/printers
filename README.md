@@ -29,3 +29,11 @@ rm -rf log2ram-master
 Evt sudo nano /etc/log2ram.conf
 reboot
 ```
+
+## Installing KlipperScreen
+```
+cd ~ && git clone https://github.com/dw-0/kiauh.git
+#run script:
+./kiauh/kiauh.sh
+```
+Install KlipperScreen in the GUI, DON'T install network manager
